@@ -1,0 +1,99 @@
+*************************
+JavaScript Syntax
+*************************
+
+* JavaScript Syntax is the set of rules, How JavaScript programs are constructed.
+
+
+*************************
+JavaScript Values
+*************************
+
+* The JavaScript Syntax defines two tyeps of values: 
+                                    * Fixed values
+                                    * Variable values
+                    
+* Fixed values are called Literals
+* Variable values are called Variables.
+
+
+**************************
+JavaScript Literals
+**************************
+
+* The two most important Syntax rules for Fixed values are: 
+    1. Numbers are written with or without decimals
+    2. Strings are text, written within double or signle quotes
+
+
+**************************
+JavaScript Variables
+**************************
+
+* Variables are used to store data values.
+* JavaScript uses the keywords 'var', 'let' and 'const' to declare Variables.
+* An equal sign is used to assign values to Variables.
+
+
+**************************
+JavaScript Operators
+**************************
+
+* JavaScript uses arithmetic Operators( '+','-', '*', '/' ) to compute values
+* JavaScript uses an assignment operator ( '=' ) to assign values to Variables.
+
+
+**************************
+JavaScript Expressions
+**************************
+
+* An expression is a combination of values, variables, and operators, which computes to a values.
+* The computation is called an evaluation.
+* Expressions can also contain variables values.
+* The values can be of various types, such as numbers and strings.
+
+
+*************************
+JavaScript keywords 
+*************************
+
+* JavaScript 'keywords' are used to identify actions to be performed.
+* The 'let' keyword tells the browser to create Variables.
+* The 'var' keyword also tells the browser to create Variables.
+* using 'var' or 'let' will produce the same result.
+
+
+*************************
+JavaScript Comments
+*************************
+
+* Not all JavaScript statements are 'executed'result.
+* Code after double slashes '//' or between '/*' and '*/' is treadted as a comment.
+* Comments are ignored, and will not be executed.
+
+
+****************************
+JavaScript Case Sensitive
+****************************
+
+* All JavaScript identifiers are case sensitive. 
+* The variables 'lastName' and 'lastname' are two different Variables.
+* JavaScript does not interpret 'LET' or 'let' as the keyword 'let'.
+
+
+******************************
+JavaScript Camel Case 
+******************************
+
+* Historically, programmers have used different ways of joining multiple words into one variable name. 
+
+        * Hyphens
+                * first-name, last-name, master-card, inter-city
+                    ## Hyphens are not allows in JavaScript. They are reserved for subtractions.
+
+        * Underscore :
+                * first_name, last_name, master_card, inter_city
+        * Upper Camel Case (Pascal Case):
+                * FirstName, LastName, MasterCard, InterCity 
+        *Lower Camel Case:
+                * firstName, lastName, masterCard, interCity 

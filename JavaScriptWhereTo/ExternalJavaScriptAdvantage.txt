@@ -1,0 +1,8 @@
+**********************************
+External JavaScript Advantages
+**********************************
+
+*> Placing scripts in external files has some Advantages:
+        * It separates HTML and code
+        * It makes HTML and JavaScript easier to read and maintain
+        * Cached JavaScript fiels an speed up page loads

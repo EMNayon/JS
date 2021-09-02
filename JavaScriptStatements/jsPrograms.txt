@@ -1,0 +1,42 @@
+**************************
+JavaScript Programs
+**************************
+
+* A computer program is alist of 'instructions' to be 'excuted' by a computer.
+* In a programming language, these programming instructions are called statements.
+* A JavaScript program is a list of programming statements.
+
+* In HTML, JavaScript programs are excuted by the web browser.
+
+**************************
+JavaScript statements
+**************************
+
+* JavaScript statements are  composed of: 
+                        * Values
+                        * Operators
+                        * Expressions
+                        * Keywords
+                        * Comments
+
+* Most JavaScript programs contain many JavaScript statements.
+* The statements are executed, one by one, in the same order as they are written.
+* JavaScript programs(and JavaScript statements) are often called JavaScript code. 
+
+
+**************************
+Semicolons
+**************************
+
+* Semicolons separate JavaScript statements.
+* Add a Semicolon at  the end of each executable statements.
+* When separated by Semicolons, multiple statements on one line are allowed.
+* Ending statements with Semicolon is not required, but highly recommended.
+
+**************************
+JavaScript Code Blocks 
+**************************
+
+* JavaScript statements can be grouped together in code blocks, inside curly brackets{....}
+* The purpose of code blocks is to define statements to be executed together.
+* One place you will find statements grouped together in blocks, is in JavaScript functions.
