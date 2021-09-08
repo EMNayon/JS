@@ -1,0 +1,28 @@
+********************************
+The Concept of Data Types
+********************************
+
+* JavaScript variables can hold different data types, numbers, srings, objects and more.
+* In programming, data types is an important concept.
+* To be able to operate on variables, it is important to know something about the type. 
+* Without data types, a computer cannot safely solve 
+
+* When adding a number and a string , JavaScript will treat the number as a string.
+* JavaScript evaluates expressions from left to right. different sequences can produce different results.
+
+
+******************************
+JavaScript Arrays
+******************************
+
+* JavaScript arrays are written with square brackets
+* Array items are separated by commas.
+* Array indexes are zero-based, which means the first item is[0], secod is [1], and so on. 
+
+
+*****************************
+JavaScript Objects 
+*****************************
+
+* JavaScript objects are written with curly braces {}. 
+* Object properties are written as 'name:value' pairs, separated by commas.
